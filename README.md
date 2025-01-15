@@ -6,11 +6,15 @@
 **iHoopInsight** is the winning project of the 2024 Orange Hoops Data Science Challenge, focused on predicting player injuries in basketball. Our team developed an advanced machine learning model that calculates an injury risk score for each player. This model leverages various player performance metrics and muscle imbalances to help identify and mitigate injury risks, enabling coaches and teams to improve player safety and performance.
 
 ## Team Members
+![Team Picture](team_picture.JPG)
+
+#### **Right to Left**
 - **Shashank Guda (Team Leader)**
-- **Rithika Gurram**
-- **Vishnu Charugundla**
 - **Varshin Bhaskaran**
-  ![Team Picture](team_pic.jpg)
+- **Vishnu Charugundla**
+- **Rithika Gurram**
+
+
 
 
 ## Project Objective

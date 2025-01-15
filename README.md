@@ -27,10 +27,10 @@ The primary goal was to predict the risk of injuries in basketball players based
 
 ## Links
 ### Project Details:
-- 📰 [iSchool Announcement](https://ischool.syracuse.edu/ischool-announces-winners-of-the-orange-hoops-data-science-challenge/)
 - 🎥 [Project Explanation on YouTube](https://www.youtube.com/watch?v=BuIZEGiOogM)
-- 💼 [LinkedIn Post](https://www.linkedin.com/posts/ischoolsu_this-years-orange-hoops-data-science-challenge-activity-7285309798584135680-OezB/)
 - 📊 [Jupyter Notebook with Detailed Analysis](https://github.com/gudashashank/ihoop_insights_injury_prediction/blob/main/Injury_Prediction_iHoopInsights.ipynb)
+- 📰 [iSchool Announcement](https://ischool.syracuse.edu/ischool-announces-winners-of-the-orange-hoops-data-science-challenge/)
+- 💼 [LinkedIn Post](https://www.linkedin.com/posts/ischoolsu_this-years-orange-hoops-data-science-challenge-activity-7285309798584135680-OezB/)
 
 ## Approach
 We utilized data analytics and machine learning techniques to explore the factors contributing to player injuries:
